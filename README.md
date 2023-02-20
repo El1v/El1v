@@ -41,8 +41,6 @@
 
 #### Testing
 
-- Testing
-
  > [![Jest][Jest]][Jest-url]  [![RTL][RTL]][RTL-url]
 
 [Jest]: https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white
@@ -51,8 +49,6 @@
 [RTL-url]: https://testing-library.com/ 
 
 #### Ferramentas
-
-- Ferramentas
 
 >[![Linux][Linux]][Linux-url]  [![git][git]][git-url]  [![GitHub][GitHub]][GitHub-url] [![Docker][Docker]][Docker-url] [![Trello][Trello]][Trello-url]  [![Slack][Slack]][Slack-url]
 
