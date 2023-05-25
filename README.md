@@ -2,10 +2,12 @@
 
 
 
-## Olá, me chamo Elivelton Machado, tenho 25 anos e sou de Florianópolis-SC.
+## Olá, me chamo Elivelton Machado, tenho 25 anos e sou de São José-SC.
 ### Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando Dev Web Fullstack na Trybe. 
 
-#### Algumas das tecnologias que estou aprofundando meus estudos:
+#### Atualmente estudando Python e Java.
+
+#### Algumas das tecnologias que tenho conhecimento:
 
 #### Front-end
 
