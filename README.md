@@ -3,7 +3,7 @@
 
 
 ## Olá, me chamo Elivelton Machado, tenho 25 anos e sou de São José-SC.
-### Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando Dev Web Fullstack na Trybe. 
+### Sou formado em Análise e Desenvolvimento de Sistemas e recentemente finalizei o curso de Desenvolvedor Web Fullstack na Trybe. 
 
 #### Atualmente me aprofundando em Python e Java.
 
